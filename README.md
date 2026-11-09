@@ -1,0 +1,1 @@
+# ADO_NET_Disconnected_Template
